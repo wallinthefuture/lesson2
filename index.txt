@@ -1,2 +1,3 @@
 first commi
 develop change
+conflict1
